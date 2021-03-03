@@ -1,2 +1,6 @@
-	name: Gleb Kragel
-	mail: gleb.kragel@gmail.com
+[user]
+	signingkey = 241D1177A890A3DA520BB86BC940279E02431B20
+	name = tide34
+	email = gleb.kragel@gmail.com
+[commit]
+	gpgsign = true
